@@ -39,4 +39,9 @@ tsne = tsneAnimate(manifold.TSNE(learning_rate=50))
 tsne.animate(iris.data,iris.target,0,'iris.gif')
 ```
 
+```
+print("Hello World!")
+
+
+
 ![iris](https://github.com/saugatapaul1010/Animated-T-SNE/blob/master/examples/iris.gif)
