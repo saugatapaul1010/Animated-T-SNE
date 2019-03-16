@@ -41,6 +41,7 @@ tsne.animate(iris.data,iris.target,0,'iris.gif')
 
 ```
 print("Hello World!")
+```
 
 
 
